@@ -1,0 +1,11 @@
+{
+  "name": "mini-test-runner",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.20.1",
+    "glob": "^10.3.10"
+  }
+}
